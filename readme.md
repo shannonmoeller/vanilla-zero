@@ -2,7 +2,7 @@
 
 All the fun with none of the -calories- compilers.
 
-http://shannonmoeller.github.io/vanilla/client
+http://shannonmoeller.github.io/vanilla/client/
 
 ----
 
