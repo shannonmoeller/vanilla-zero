@@ -1,0 +1,7 @@
+:root {
+	--color-background: hsla(0, 0%, 16%, 1);
+	--color-foreground: hsla(0, 0%, 84%, 1);
+	--display-font: 300 2.56rem/1.6 sans-serif;
+	--body-font: 300 1.6rem/1.6 sans-serif;
+	--gap: 3rem;
+}

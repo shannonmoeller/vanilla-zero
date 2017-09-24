@@ -1,0 +1,14 @@
+html {
+	font-size: 62.5%;
+}
+
+body {
+	background-color: var(--color-background);
+	color: var(--color-foreground);
+	font: var(--body-font);
+	padding: var(--gap);
+}
+
+h1 {
+	font: var(--display-font);
+}
