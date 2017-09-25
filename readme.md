@@ -1,6 +1,6 @@
 # Look, ma! No hands!
 
-All the fun with none of the -calories- compilers.
+Same great taste with none of the ~~calories~~ compilers.
 
 http://shannonmoeller.github.io/vanilla/client/
 
