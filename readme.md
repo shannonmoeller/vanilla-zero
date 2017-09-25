@@ -2,9 +2,9 @@
 
 Modern web development with zero compilers, transpilers, polyfills, or frameworks.
 
-- [HTML Custom Elements v1](http://caniuse.com/#feat=custom-elementsv1)
-- [ES6 Modules](http://caniuse.com/#feat=es6-module)
+- [JS Modules](http://caniuse.com/#feat=es6-module)
 - [CSS Variables](http://caniuse.com/#feat=css-variables)
+- [HTML Custom Elements v1](http://caniuse.com/#feat=custom-elementsv1)
 - [async/await](http://caniuse.com/#feat=async-functions)
 
 http://shannonmoeller.github.io/vanilla-zero/client/
