@@ -1,8 +1,8 @@
-# Look, ma! No hands!
+# Vanilla Zero
 
-Same great taste with none of the ~~calories~~ compilers.
+Modern web development with zero ~~calories~~ compilers.
 
-http://shannonmoeller.github.io/vanilla/client/
+http://shannonmoeller.github.io/vanilla-zero/client/
 
 ----
 
