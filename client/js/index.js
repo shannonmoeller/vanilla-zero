@@ -1,3 +1,3 @@
-import { SmBox } from '../el/sm-box/sm-box.js';
+import { SmBox } from '../html/sm-box/sm-box.js';
 
 customElements.define('sm-box', SmBox);
