@@ -7,7 +7,9 @@ Modern web development with zero compilers, transpilers, polyfills, or framework
 - [HTML Custom Elements v1](http://caniuse.com/#feat=custom-elementsv1)
 - [async/await](http://caniuse.com/#feat=async-functions)
 
-http://shannonmoeller.github.io/vanilla-zero/client/
+https://shannonmoeller.github.io/vanilla-zero/client/
+
+Per the spec, ES modules in browsers [require that CORS be enabled](https://jakearchibald.com/2017/es-modules-in-browsers/#always-cors).
 
 ----
 
